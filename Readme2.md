@@ -50,7 +50,8 @@ $ echo $HADOOP_PREFIX
 $ cd $HADOOP_PREFIX
 $ bin/hadoop version
 ```
-7. Configuration of the hadoop files: hadoop-env.sh, core-site.xml, mapred-site.xml, hdfssite.xml and yarn-site.xml 
+7. Configuration of the hadoop files: hadoop-env.sh, core-site.xml, mapred-site.xml, hdfssite.xml and yarn-site.xml
+
 path :: /usr/local/hadoop-2.5.1/etc/hadoop
 a) hadoop-env.sh
 Include the following lines in hadoop-env.sh file
