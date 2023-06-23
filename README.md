@@ -56,5 +56,7 @@ newjsp.jsp:
 
 http://localhost:8080/restclienttest1/newjsp.jsp
 ```
+## REST:
 ![image](https://github.com/Siddarthan999/VCC/assets/91734840/ac5bd042-0f43-45a0-8adb-52677f80b052)
+## SOAP:
 ![image](https://github.com/Siddarthan999/VCC/assets/91734840/406a56d0-639f-451b-9b76-fc99da285014)
